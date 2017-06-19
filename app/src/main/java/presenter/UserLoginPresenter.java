@@ -13,7 +13,7 @@ import model.User;
  * Description:
  *  Presenter是用作Model和View之间交互的桥梁
  *      那么应该有什么方法呢？
-        其实也是主要看该功能有什么操作，比如本例，两个操作:login和clear。
+        其实也是主要看该功能有什么操作， 比如本例，两个操作:login和clear。
  * Created on 2017/6/15
  */
 public class UserLoginPresenter {
