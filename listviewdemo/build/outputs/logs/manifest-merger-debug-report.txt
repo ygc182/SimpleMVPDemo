@@ -15,28 +15,15 @@ ADDED from Z:\demo\SimpleMVPDemo\listviewdemo\src\main\AndroidManifest.xml:2:1-2
 		INJECTED from Z:\demo\SimpleMVPDemo\listviewdemo\src\main\AndroidManifest.xml
 application
 ADDED from Z:\demo\SimpleMVPDemo\listviewdemo\src\main\AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\3b0f6d58a69a897aeabb22e52fcc520c473eeb70\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\0f46331290b4079d0ccd24f4e123ff6c00d19d33\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\ee4dc47166e1733b148580bbc0c4e98882120b3e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\b207f46b05d6ef5f7845d348126231b78606df80\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\9c36d185c20225574eadc571c65c2118fec823cc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\b2f3eded9bda249c53f015576ba471fb659a097c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\95f8701c744672da61f55bab9d44d327db35c5b0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\5bf5ddd3ecf07c2be78c406e2e8f2959b48e23cf\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\c540a15b9f801607d01d101fd13764c31240314b\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from Z:\demo\SimpleMVPDemo\listviewdemo\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -63,30 +50,17 @@ ADDED from Z:\demo\SimpleMVPDemo\listviewdemo\src\main\AndroidManifest.xml:15:17
 		ADDED from Z:\demo\SimpleMVPDemo\listviewdemo\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
 INJECTED from Z:\demo\SimpleMVPDemo\listviewdemo\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-vector-drawable:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\3b0f6d58a69a897aeabb22e52fcc520c473eeb70\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\0f46331290b4079d0ccd24f4e123ff6c00d19d33\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\ee4dc47166e1733b148580bbc0c4e98882120b3e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\b207f46b05d6ef5f7845d348126231b78606df80\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\9c36d185c20225574eadc571c65c2118fec823cc\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\b2f3eded9bda249c53f015576ba471fb659a097c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\95f8701c744672da61f55bab9d44d327db35c5b0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\5bf5ddd3ecf07c2be78c406e2e8f2959b48e23cf\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\c540a15b9f801607d01d101fd13764c31240314b\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\3b0f6d58a69a897aeabb22e52fcc520c473eeb70\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from Z:\demo\SimpleMVPDemo\listviewdemo\src\main\AndroidManifest.xml
 		INJECTED from Z:\demo\SimpleMVPDemo\listviewdemo\src\main\AndroidManifest.xml
@@ -94,29 +68,16 @@ MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\li
 		INJECTED from Z:\demo\SimpleMVPDemo\listviewdemo\src\main\AndroidManifest.xml
 		INJECTED from Z:\demo\SimpleMVPDemo\listviewdemo\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\3b0f6d58a69a897aeabb22e52fcc520c473eeb70\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\0f46331290b4079d0ccd24f4e123ff6c00d19d33\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\ee4dc47166e1733b148580bbc0c4e98882120b3e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\b207f46b05d6ef5f7845d348126231b78606df80\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\9c36d185c20225574eadc571c65c2118fec823cc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\b2f3eded9bda249c53f015576ba471fb659a097c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\95f8701c744672da61f55bab9d44d327db35c5b0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\5bf5ddd3ecf07c2be78c406e2e8f2959b48e23cf\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\c540a15b9f801607d01d101fd13764c31240314b\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\3b0f6d58a69a897aeabb22e52fcc520c473eeb70\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] Z:\demo\SimpleMVPDemo\listviewdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mr.Qinshou\.android\build-cache\3b0f6d58a69a897aeabb22e52fcc520c473eeb70\output\AndroidManifest.xml:26:9-47
