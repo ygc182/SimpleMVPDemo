@@ -1,1 +1,1 @@
-include ':app', ':observerdemo'
+include ':app', ':observerdemo', ':listviewdemo'
