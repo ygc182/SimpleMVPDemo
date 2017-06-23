@@ -20,12 +20,18 @@ public class MainActivity extends AppCompatActivity {
     private static final String TAG = "ygc";
     @InjectView(R.id.etNumber)
     EditText etNumber;
+    private Bundle mExtras;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.inject(this);
+        Intent intent = getIntent();
+        mExtras = intent.getExtras();
+        if(mExtras!=null&&!TextUtils.isEmpty(mExtras.getString("num"))){
+            etNumber.setText(mExtras.getString("num"));
+        }
 
     }
 
